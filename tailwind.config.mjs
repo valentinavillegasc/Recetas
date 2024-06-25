@@ -6,6 +6,7 @@ export default {
       colors: {
         greenOne: "#7CB518",
         greenTwo: "#5C8001",
+        greenThree: "#e3ecd",
         orangeOne: "#FBB02D",
         orangeTwo: "#fb6107",
       },
