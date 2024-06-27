@@ -1,227 +1,225 @@
-{
-  "recipes": [
-    {
-      "id": 1,
-      "title": "Tortilla de Patatas",
-      "description": "Una tortilla clásica de patatas y cebolla.",
-      "ingredients": [
-        "4 patatas medianas",
-        "1 cebolla",
-        "6 huevos",
-        "Aceite de oliva",
-        "Sal"
-      ],
-      "instructions": [
-        "Pelar y cortar las patatas en rodajas finas.",
-        "Pelar y picar la cebolla.",
-        "Freír las patatas y la cebolla en aceite de oliva hasta que estén tiernas.",
-        "Batir los huevos y mezclar con las patatas y cebolla.",
-        "Verter la mezcla en una sartén y cocinar a fuego medio hasta que esté cuajada por ambos lados."
-      ],
-      "image": ""
-    },
-    {
-      "id": 2,
-      "title": "Paella Valenciana",
-      "description": "Una deliciosa paella con mariscos y pollo.",
-      "ingredients": [
-        "500 g de arroz",
-        "200 g de mariscos variados",
-        "200 g de pollo",
-        "1 pimiento rojo",
-        "1 tomate",
-        "Aceite de oliva",
-        "Azafrán",
-        "Caldo de pescado",
-        "Sal"
-      ],
-      "instructions": [
-        "Calentar aceite en una paellera y dorar el pollo.",
-        "Añadir el pimiento y el tomate picados, y cocinar hasta que estén tiernos.",
-        "Agregar el arroz y el azafrán, removiendo bien.",
-        "Añadir el caldo de pescado caliente y los mariscos.",
-        "Cocinar a fuego medio hasta que el arroz esté en su punto."
-      ],
-      "image": ""
-    },
-    {
-      "id": 3,
-      "title": "Gazpacho",
-      "description": "Una sopa fría de tomate ideal para el verano.",
-      "ingredients": [
-        "1 kg de tomates maduros",
-        "1 pimiento verde",
-        "1 pepino",
-        "1 diente de ajo",
-        "50 g de pan del día anterior",
-        "Aceite de oliva",
-        "Vinagre",
-        "Sal"
-      ],
-      "instructions": [
-        "Pelar y trocear los tomates, el pimiento y el pepino.",
-        "Remojar el pan en agua.",
-        "Triturar todos los ingredientes junto con el ajo, el aceite, el vinagre y la sal.",
-        "Pasar por un colador fino y refrigerar antes de servir."
-      ],
-      "image": ""
-    },
-    {
-      "id": 4,
-      "title": "Croquetas de Jamón",
-      "description": "Croquetas cremosas de jamón ibérico.",
-      "ingredients": [
-        "200 g de jamón ibérico",
-        "500 ml de leche",
-        "50 g de harina",
-        "50 g de mantequilla",
-        "Nuez moscada",
-        "Sal",
-        "Pan rallado",
-        "Huevo",
-        "Aceite para freír"
-      ],
-      "instructions": [
-        "Picar el jamón en trozos pequeños.",
-        "Derretir la mantequilla y añadir la harina, cocinando hasta que esté dorada.",
-        "Añadir la leche poco a poco, removiendo constantemente para evitar grumos.",
-        "Agregar el jamón, la nuez moscada y la sal, y cocinar hasta que la masa se despegue de las paredes.",
-        "Dejar enfriar la masa y formar croquetas.",
-        "Pasar las croquetas por huevo batido y pan rallado, y freír hasta que estén doradas."
-      ],
-      "image": ""
-    },
-    {
-      "id": 5,
-      "title": "Ensalada Caprese",
-      "description": "Ensalada fresca de tomate, mozzarella y albahaca.",
-      "ingredients": [
-        "3 tomates",
-        "200 g de mozzarella fresca",
-        "Hojas de albahaca",
-        "Aceite de oliva virgen extra",
-        "Vinagre balsámico",
-        "Sal",
-        "Pimienta"
-      ],
-      "instructions": [
-        "Cortar los tomates y la mozzarella en rodajas.",
-        "Alternar las rodajas de tomate y mozzarella en un plato.",
-        "Añadir las hojas de albahaca.",
-        "Aliñar con aceite de oliva, vinagre balsámico, sal y pimienta."
-      ],
-      "image": ""
-    },
-    {
-      "id": 6,
-      "title": "Pulpo a la Gallega",
-      "description": "Pulpo cocido con patatas, pimentón y aceite de oliva.",
-      "ingredients": [
-        "1 pulpo",
-        "4 patatas",
-        "Pimentón dulce",
-        "Aceite de oliva",
-        "Sal gruesa"
-      ],
-      "instructions": [
-        "Cocer el pulpo en agua hirviendo durante 30-40 minutos.",
-        "Cocer las patatas en la misma agua hasta que estén tiernas.",
-        "Cortar el pulpo y las patatas en rodajas.",
-        "Servir el pulpo y las patatas, espolvorear con pimentón y sal, y aliñar con aceite de oliva."
-      ],
-      "image": ""
-    },
-    {
-      "id": 7,
-      "title": "Arroz con Leche",
-      "description": "Un postre cremoso y dulce a base de arroz y leche.",
-      "ingredients": [
-        "1 litro de leche",
-        "200 g de arroz",
-        "150 g de azúcar",
-        "1 rama de canela",
-        "Cáscara de limón",
-        "Canela en polvo"
-      ],
-      "instructions": [
-        "Cocer el arroz con la leche, la canela en rama y la cáscara de limón a fuego lento.",
-        "Remover constantemente para evitar que se pegue.",
-        "Añadir el azúcar y cocinar hasta que el arroz esté tierno y la mezcla cremosa.",
-        "Retirar la canela en rama y la cáscara de limón.",
-        "Servir en cuencos y espolvorear con canela en polvo."
-      ],
-      "image": ""
-    },
-    {
-      "id": 8,
-      "title": "Tarta de Santiago",
-      "description": "Un delicioso postre de almendra típico de Galicia.",
-      "ingredients": [
-        "250 g de almendra molida",
-        "250 g de azúcar",
-        "5 huevos",
-        "Ralladura de limón",
-        "Azúcar glas"
-      ],
-      "instructions": [
-        "Precalentar el horno a 180°C.",
-        "Mezclar las almendras molidas con el azúcar y la ralladura de limón.",
-        "Añadir los huevos uno a uno, mezclando bien.",
-        "Verter la mezcla en un molde engrasado y hornear durante 30-35 minutos.",
-        "Dejar enfriar y espolvorear con azúcar glas."
-      ],
-      "image": ""
-    },
-    {
-      "id": 9,
-      "title": "Empanada Gallega",
-      "description": "Empanada rellena de atún, pimientos y cebolla.",
-      "ingredients": [
-        "500 g de harina",
-        "25 g de levadura fresca",
-        "250 ml de agua",
-        "1 cucharadita de sal",
-        "100 ml de aceite de oliva",
-        "2 latas de atún",
-        "2 pimientos rojos",
-        "1 cebolla",
-        "2 tomates"
-      ],
-      "instructions": [
-        "Disolver la levadura en el agua tibia.",
-        "Mezclar la harina con la sal y añadir el agua con levadura, amasando bien.",
-        "Añadir el aceite de oliva y amasar hasta obtener una masa elástica.",
-        "Dejar reposar la masa tapada hasta que doble su tamaño.",
-        "Picar los pimientos, la cebolla y los tomates, y sofreír en aceite.",
-        "Añadir el atún y dejar enfriar.",
-        "Dividir la masa en dos partes, extender y rellenar con la mezcla de atún y verduras.",
-        "Cubrir con la otra parte de la masa, sellar los bordes y hornear a 200°C durante 25-30 minutos."
-      ],
-      "image": ""
-    },
-    {
-      "id": 10,
-      "title": "Gazpacho Manchego",
-      "description": "Guiso de carne con tortas de gazpacho.",
-      "ingredients": [
-        "1 conejo",
-        "1 perdiz",
-        "1 pimiento rojo",
-        "1 pimiento verde",
-        "2 tomates",
-        "3 dientes de ajo",
-        "Tortas de gazpacho",
-        "Aceite de oliva",
-        "Caldo de carne",
-        "Sal"
-      ],
-      "instructions": [
-        "Trocear el conejo y la perdiz, y dorar en aceite de oliva.",
-        "Añadir los pimientos, los tomates y el ajo picados, y cocinar hasta que estén tiernos.",
-        "Añadir el caldo de carne y las tortas de gazpacho troceadas.",
-        "Cocinar a fuego lento hasta que la carne esté tierna y el guiso espeso."
-      ],
-      "image": ""
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "title": "Tortilla de Patatas",
+    "description": "Una tortilla clásica de patatas y cebolla.",
+    "ingredients": [
+      "4 patatas medianas",
+      "1 cebolla",
+      "6 huevos",
+      "Aceite de oliva",
+      "Sal"
+    ],
+    "instructions": [
+      "Pelar y cortar las patatas en rodajas finas.",
+      "Pelar y picar la cebolla.",
+      "Freír las patatas y la cebolla en aceite de oliva hasta que estén tiernas.",
+      "Batir los huevos y mezclar con las patatas y cebolla.",
+      "Verter la mezcla en una sartén y cocinar a fuego medio hasta que esté cuajada por ambos lados."
+    ],
+    "image": "/tortillaPatatas.webp"
+  },
+  {
+    "id": 2,
+    "title": "Paella Valenciana",
+    "description": "Una deliciosa paella con mariscos y pollo.",
+    "ingredients": [
+      "500 g de arroz",
+      "200 g de mariscos variados",
+      "200 g de pollo",
+      "1 pimiento rojo",
+      "1 tomate",
+      "Aceite de oliva",
+      "Azafrán",
+      "Caldo de pescado",
+      "Sal"
+    ],
+    "instructions": [
+      "Calentar aceite en una paellera y dorar el pollo.",
+      "Añadir el pimiento y el tomate picados, y cocinar hasta que estén tiernos.",
+      "Agregar el arroz y el azafrán, removiendo bien.",
+      "Añadir el caldo de pescado caliente y los mariscos.",
+      "Cocinar a fuego medio hasta que el arroz esté en su punto."
+    ],
+    "image": "/paellaValenciana.webp"
+  },
+  {
+    "id": 3,
+    "title": "Gazpacho",
+    "description": "Una sopa fría de tomate ideal para el verano.",
+    "ingredients": [
+      "1 kg de tomates maduros",
+      "1 pimiento verde",
+      "1 pepino",
+      "1 diente de ajo",
+      "50 g de pan del día anterior",
+      "Aceite de oliva",
+      "Vinagre",
+      "Sal"
+    ],
+    "instructions": [
+      "Pelar y trocear los tomates, el pimiento y el pepino.",
+      "Remojar el pan en agua.",
+      "Triturar todos los ingredientes junto con el ajo, el aceite, el vinagre y la sal.",
+      "Pasar por un colador fino y refrigerar antes de servir."
+    ],
+    "image": "/gazpacho.webp"
+  },
+  {
+    "id": 4,
+    "title": "Croquetas de Jamón",
+    "description": "Croquetas cremosas de jamón ibérico.",
+    "ingredients": [
+      "200 g de jamón ibérico",
+      "500 ml de leche",
+      "50 g de harina",
+      "50 g de mantequilla",
+      "Nuez moscada",
+      "Sal",
+      "Pan rallado",
+      "Huevo",
+      "Aceite para freír"
+    ],
+    "instructions": [
+      "Picar el jamón en trozos pequeños.",
+      "Derretir la mantequilla y añadir la harina, cocinando hasta que esté dorada.",
+      "Añadir la leche poco a poco, removiendo constantemente para evitar grumos.",
+      "Agregar el jamón, la nuez moscada y la sal, y cocinar hasta que la masa se despegue de las paredes.",
+      "Dejar enfriar la masa y formar croquetas.",
+      "Pasar las croquetas por huevo batido y pan rallado, y freír hasta que estén doradas."
+    ],
+    "image": ""
+  },
+  {
+    "id": 5,
+    "title": "Ensalada Caprese",
+    "description": "Ensalada fresca de tomate, mozzarella y albahaca.",
+    "ingredients": [
+      "3 tomates",
+      "200 g de mozzarella fresca",
+      "Hojas de albahaca",
+      "Aceite de oliva virgen extra",
+      "Vinagre balsámico",
+      "Sal",
+      "Pimienta"
+    ],
+    "instructions": [
+      "Cortar los tomates y la mozzarella en rodajas.",
+      "Alternar las rodajas de tomate y mozzarella en un plato.",
+      "Añadir las hojas de albahaca.",
+      "Aliñar con aceite de oliva, vinagre balsámico, sal y pimienta."
+    ],
+    "image": ""
+  },
+  {
+    "id": 6,
+    "title": "Pulpo a la Gallega",
+    "description": "Pulpo cocido con patatas, pimentón y aceite de oliva.",
+    "ingredients": [
+      "1 pulpo",
+      "4 patatas",
+      "Pimentón dulce",
+      "Aceite de oliva",
+      "Sal gruesa"
+    ],
+    "instructions": [
+      "Cocer el pulpo en agua hirviendo durante 30-40 minutos.",
+      "Cocer las patatas en la misma agua hasta que estén tiernas.",
+      "Cortar el pulpo y las patatas en rodajas.",
+      "Servir el pulpo y las patatas, espolvorear con pimentón y sal, y aliñar con aceite de oliva."
+    ],
+    "image": ""
+  },
+  {
+    "id": 7,
+    "title": "Arroz con Leche",
+    "description": "Un postre cremoso y dulce a base de arroz y leche.",
+    "ingredients": [
+      "1 litro de leche",
+      "200 g de arroz",
+      "150 g de azúcar",
+      "1 rama de canela",
+      "Cáscara de limón",
+      "Canela en polvo"
+    ],
+    "instructions": [
+      "Cocer el arroz con la leche, la canela en rama y la cáscara de limón a fuego lento.",
+      "Remover constantemente para evitar que se pegue.",
+      "Añadir el azúcar y cocinar hasta que el arroz esté tierno y la mezcla cremosa.",
+      "Retirar la canela en rama y la cáscara de limón.",
+      "Servir en cuencos y espolvorear con canela en polvo."
+    ],
+    "image": ""
+  },
+  {
+    "id": 8,
+    "title": "Tarta de Santiago",
+    "description": "Un delicioso postre de almendra típico de Galicia.",
+    "ingredients": [
+      "250 g de almendra molida",
+      "250 g de azúcar",
+      "5 huevos",
+      "Ralladura de limón",
+      "Azúcar glas"
+    ],
+    "instructions": [
+      "Precalentar el horno a 180°C.",
+      "Mezclar las almendras molidas con el azúcar y la ralladura de limón.",
+      "Añadir los huevos uno a uno, mezclando bien.",
+      "Verter la mezcla en un molde engrasado y hornear durante 30-35 minutos.",
+      "Dejar enfriar y espolvorear con azúcar glas."
+    ],
+    "image": ""
+  },
+  {
+    "id": 9,
+    "title": "Empanada Gallega",
+    "description": "Empanada rellena de atún, pimientos y cebolla.",
+    "ingredients": [
+      "500 g de harina",
+      "25 g de levadura fresca",
+      "250 ml de agua",
+      "1 cucharadita de sal",
+      "100 ml de aceite de oliva",
+      "2 latas de atún",
+      "2 pimientos rojos",
+      "1 cebolla",
+      "2 tomates"
+    ],
+    "instructions": [
+      "Disolver la levadura en el agua tibia.",
+      "Mezclar la harina con la sal y añadir el agua con levadura, amasando bien.",
+      "Añadir el aceite de oliva y amasar hasta obtener una masa elástica.",
+      "Dejar reposar la masa tapada hasta que doble su tamaño.",
+      "Picar los pimientos, la cebolla y los tomates, y sofreír en aceite.",
+      "Añadir el atún y dejar enfriar.",
+      "Dividir la masa en dos partes, extender y rellenar con la mezcla de atún y verduras.",
+      "Cubrir con la otra parte de la masa, sellar los bordes y hornear a 200°C durante 25-30 minutos."
+    ],
+    "image": ""
+  },
+  {
+    "id": 10,
+    "title": "Gazpacho Manchego",
+    "description": "Guiso de carne con tortas de gazpacho.",
+    "ingredients": [
+      "1 conejo",
+      "1 perdiz",
+      "1 pimiento rojo",
+      "1 pimiento verde",
+      "2 tomates",
+      "3 dientes de ajo",
+      "Tortas de gazpacho",
+      "Aceite de oliva",
+      "Caldo de carne",
+      "Sal"
+    ],
+    "instructions": [
+      "Trocear el conejo y la perdiz, y dorar en aceite de oliva.",
+      "Añadir los pimientos, los tomates y el ajo picados, y cocinar hasta que estén tiernos.",
+      "Añadir el caldo de carne y las tortas de gazpacho troceadas.",
+      "Cocinar a fuego lento hasta que la carne esté tierna y el guiso espeso."
+    ],
+    "image": ""
+  }
+]
