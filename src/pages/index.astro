@@ -1,10 +1,17 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import SearchBar from '../components/SearchBar.astro';
+import CardReceta from '../components/CardReceta.astro';
+import recetas from '../recetas.json'
 ---
 
 <Layout title="Home Taste">
-	<SearchBar/>
+  <SearchBar />
+  <div class="flex flex-row flex-wrap justify-center items-center p-16">
+    {recetas.map((receta) => (
+      <CardReceta id={receta.id} image={receta.image} title={receta.title} description={receta.description} />
+    ))}
+  </div>
 </Layout>
 
 
